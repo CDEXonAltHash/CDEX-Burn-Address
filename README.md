@@ -6,7 +6,7 @@ This script create a valid address without generate a private key, so the HTML o
 
 Example address created with the command:
 
-py .\burn_html_tokens.py HtmLToBurnSomeCDEXTokenS
+py .\burn_script.py HtmLToBurnSomeCDEXTokenS
 
 http://cdexplorer.net/address/HtmLToBurnSomeCDEXTokenRzzzzudYFei
 
