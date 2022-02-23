@@ -17,4 +17,4 @@ Video of the burn address generated:
 
 [![Burn Address from CDEX](https://img.youtube.com/vi/MeOvk-0pDeY/0.jpg)](https://www.youtube.com/watch?v=MeOvk-0pDeY)
 
-DEPLOYED:   HtmLCDEXburner1111111111111122KcpX
+DEPLOYED:   http://cdexplorer.net/address/HtmLCDEXburner1111111111111122KcpX
